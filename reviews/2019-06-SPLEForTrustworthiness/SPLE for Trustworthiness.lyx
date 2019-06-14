@@ -1,0 +1,352 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass acmart
+\begin_preamble
+% For algorithm2e
+\renewcommand{\algorithmcfname}{ALGORITHM}
+\SetAlFnt{\small}
+\SetAlCapFnt{\small}
+\SetAlCapNameFnt{\small}
+\SetAlCapHSkip{0pt}
+\IncMargin{-\parindent}
+\end_preamble
+\options format=acmsmall, review=false, screen=true
+\use_default_options false
+\begin_modules
+InStar
+algorithm2e
+\end_modules
+\maintain_unincluded_children false
+\begin_local_layout
+Format 60
+PackageOptions algorithm2e ruled
+\end_local_layout
+\language english
+\language_package auto
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type numerical
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Example ACM Article
+\end_layout
+
+\begin_layout Author
+Goetz Botterweck
+\end_layout
+
+\begin_layout ORCID
+1234-5678-9012-3456
+\end_layout
+
+\begin_layout Affiliation
+\begin_inset Flex Institution
+status open
+
+\begin_layout Plain Layout
+Lero, University of Limerick
+\end_layout
+
+\end_inset
+
+
+\begin_inset Flex City
+status open
+
+\begin_layout Plain Layout
+Limerick
+\end_layout
+
+\end_inset
+
+
+\begin_inset Flex Country
+status open
+
+\begin_layout Plain Layout
+Ireland
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+Abstract here.
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+Introduction
+\end_layout
+
+\begin_layout Section
+Verification and Testing of SPLs
+\end_layout
+
+\begin_layout Standard
+Thüm, T., Apel, S., Kästner, C., Schaefer, I.
+ and Saake, G., 2014.
+ A classification and survey of analysis strategies for software product
+ lines.
+ ACM Computing Surveys (CSUR), 47(1), p.6.
+ 
+\series bold
+279 citations.
+\end_layout
+
+\begin_layout Section
+Testing of SPLEs
+\end_layout
+
+\begin_layout Standard
+Neto, P.A.D.M.S., do Carmo Machado, I., McGregor, J.D., De Almeida, E.S.
+ and de Lemos Meira, S.R., 2011.
+ A systematic mapping study of software product lines testing.
+ Information and Software Technology, 53(5), pp.407-423.
+ 
+\series bold
+200 citations.
+\end_layout
+
+\begin_layout Standard
+Lee, J., Kang, S.
+ and Lee, D., 2012, September.
+ A survey on software product line testing.
+ In Proceedings of the 16th International Software Product Line Conference-Volum
+e 1 (pp.
+ 31-40).
+ ACM.
+ 
+\series bold
+73 citations.
+\end_layout
+
+\begin_layout Standard
+do Carmo Machado, I., Mcgregor, J.D., Cavalcanti, Y.C.
+ and De Almeida, E.S., 2014.
+ On strategies for testing software product lines: A systematic literature
+ review.
+ Information and Software Technology, 56(10), pp.1183-1199.
+ 
+\series bold
+62 citations.
+\end_layout
+
+\begin_layout Standard
+do Carmo Machado, I., McGregor, J.D.
+ and Santana de Almeida, E., 2012.
+ Strategies for testing products in software product lines.
+ ACM SIGSOFT Software Engineering Notes, 37(6), pp.1-8.
+ 
+\series bold
+49 citations.
+\end_layout
+
+\begin_layout Subsection
+Search-based SE in SPLE
+\end_layout
+
+\begin_layout Standard
+Lopez-Herrejon, R.E., Linsbauer, L.
+ and Egyed, A., 2015.
+ A systematic mapping study of search-based software engineering for software
+ product lines.
+ Information and software technology, 61, pp.33-51.
+ 
+\series bold
+58 citations.
+\end_layout
+
+\begin_layout Standard
+Harman, M., Jia, Y., Krinke, J., Langdon, W.B., Petke, J.
+ and Zhang, Y., 2014, September.
+ Search based software engineering for software product line engineering:
+ a survey and directions for future work.
+ In Proceedings of the 18th International Software Product Line Conference-Volum
+e 1 (pp.
+ 5-18).
+ ACM.
+ 
+\series bold
+103 citations.
+\end_layout
+
+\begin_layout Subsection
+Optimisation of Testing
+\end_layout
+
+\begin_layout Standard
+Al-Hajjaji, M., Thüm, T., Meinicke, J., Lochau, M.
+ and Saake, G., 2014, September.
+ Similarity-based prioritization in software product-line testing.
+ In Proceedings of the 18th International Software Product Line Conference-Volum
+e 1 (pp.
+ 197-206).
+ ACM.
+ 
+\series bold
+70 citations.
+\end_layout
+
+\begin_layout Section
+Trustworthiness of Software
+\end_layout
+
+\begin_layout Standard
+Immonen, A.
+ and Palviainen, M., 2007, October.
+ Trustworthiness evaluation and testing of open source components.
+ In Seventh International Conference on Quality Software (QSIC 2007) (pp.
+ 316-321).
+ IEEE.
+ 
+\series bold
+46 citations.
+\end_layout
+
+\begin_layout Section
+Configuration / Sampling
+\end_layout
+
+\begin_layout Standard
+Medeiros, F., Kästner, C., Ribeiro, M., Gheyi, R.
+ and Apel, S., 2016, May.
+ A comparison of 10 sampling algorithms for configurable systems.
+ In Proceedings of the 38th International Conference on Software Engineering
+ (pp.
+ 643-654).
+ ACM.
+ 
+\series bold
+67 citations.
+\end_layout
+
+\begin_layout Standard
+Nadi S, Berger T, Kästner C, Czarnecki K.
+ Where do configuration constraints stem from? an extraction approach and
+ an empirical study.
+ IEEE Transactions on Software Engineering.
+ 2015 Aug 1;41(8):820-41.
+ 
+\series bold
+48 citations.
+\end_layout
+
+\begin_layout Standard
+Meinicke, J., Wong, C.P., Kästner, C., Thüm, T.
+ and Saake, G., 2016, August.
+ On essential configuration complexity: measuring interactions in highly-configu
+rable systems.
+ In Proceedings of the 31st IEEE/ACM International Conference on Automated
+ Software Engineering (pp.
+ 483-494).
+ ACM.
+\end_layout
+
+\begin_layout Standard
+Al-Hajjaji, M., Krieter, S., Thüm, T., Lochau, M.
+ and Saake, G., 2016, October.
+ IncLing: efficient product-line testing using incremental pairwise sampling.
+ In ACM SIGPLAN Notices (Vol.
+ 52, No.
+ 3, pp.
+ 144-155).
+ ACM.
+ 
+\series bold
+45 citations.
+\end_layout
+
+\begin_layout Section
+Empirical Data on Product Lines (esp.
+ Problems and Bugs)
+\end_layout
+
+\begin_layout Standard
+Abal, I., Brabrand, C.
+ and Wasowski, A., 2014, September.
+ 42 variability bugs in the linux kernel: a qualitative analysis.
+ In Proceedings of the 29th ACM/IEEE international conference on Automated
+ software engineering (pp.
+ 421-432).
+ ACM.
+ 
+\series bold
+90 citations.
+\end_layout
+
+\end_body
+\end_document
