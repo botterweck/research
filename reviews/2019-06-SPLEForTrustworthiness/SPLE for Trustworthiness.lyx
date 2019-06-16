@@ -156,7 +156,7 @@ Introduction
 Verification and Testing of SPLs
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Thüm, T., Apel, S., Kästner, C., Schaefer, I.
  and Saake, G., 2014.
  A classification and survey of analysis strategies for software product
@@ -165,6 +165,13 @@ Thüm, T., Apel, S., Kästner, C., Schaefer, I.
  
 \series bold
 279 citations.
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Provides a taxonomy of software product line analysis, also covering including
+ 123 articles.
 \end_layout
 
 \begin_layout Section
@@ -346,6 +353,92 @@ Abal, I., Brabrand, C.
  
 \series bold
 90 citations.
+\end_layout
+
+\begin_layout Section
+Continous Software Engineering
+\end_layout
+
+\begin_layout Standard
+Fitzgerald, B.
+ and Stol, K.J., 2017.
+ Continuous software engineering: A roadmap and agenda.
+ Journal of Systems and Software, 123, pp.176-189.
+ 
+\series bold
+216 citations.
+\end_layout
+
+\begin_layout Standard
+Rodríguez, P., Haghighatkhah, A., Lwakatare, L.E., Teppola, S., Suomalainen,
+ T., Eskeli, J., Karvonen, T., Kuvaja, P., Verner, J.M.
+ and Oivo, M., 2017.
+ Continuous deployment of software intensive products and services: A systematic
+ mapping study.
+ Journal of Systems and Software, 123, pp.263-291.
+ 
+\series bold
+106 citations.
+\end_layout
+
+\begin_layout Standard
+Jabbari, R., bin Ali, N., Petersen, K.
+ and Tanveer, B., 2016, May.
+ What is devops?: A systematic mapping study on definitions and practices.
+ In Proceedings of the Scientific Workshop Proceedings of XP2016 (p.
+ 12).
+ ACM.
+ 
+\series bold
+56 citations.
+\end_layout
+
+\begin_layout Standard
+Shahin, M., Babar, M.A.
+ and Zhu, L., 2017.
+ Continuous integration, delivery and deployment: a systematic review on
+ approaches, tools, challenges and practices.
+ IEEE Access, 5, pp.3909-3943.
+ 
+\series bold
+77 citations.
+\end_layout
+
+\begin_layout Subsection
+Experimentation
+\end_layout
+
+\begin_layout Standard
+Lindgren, E.
+ and Münch, J., 2016.
+ Raising the odds of success: the current state of experimentation in product
+ development.
+ Information and Software Technology, 77, pp.80-91.
+ 
+\series bold
+41 citations.
+\end_layout
+
+\begin_layout Standard
+Schermann, G., Cito, J., Leitner, P., Zdun, U.
+ and Gall, H.C., 2018.
+ We’re doing it live: A multi-method empirical study on continuous experimentati
+on.
+ Information and Software Technology, 99, pp.41-57.
+ 
+\series bold
+22 citations.
+\end_layout
+
+\begin_layout Standard
+Schermann, G., Cito, J.
+ and Leitner, P., 2018.
+ Continuous experimentation: challenges, implementation techniques, and
+ current research.
+ IEEE Software, 35(2), pp.26-31.
+ 
+\series bold
+13 citations.
 \end_layout
 
 \end_body
